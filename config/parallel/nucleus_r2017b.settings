@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings name="parallel" xmlns="urn:mathworks.matlab.settings" xsi:schemaLocation="urn:mathworks.matlab.settings settings.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <settings name="profiles">
+        <settings name="nucleus_r2017b" visible="true">
+            <key name="Alias" visible="true">
+                <string>
+                    <value><![CDATA[nucleus_r2017b]]></value>
+                </string>
+            </key>
+            <key name="Description" visible="true">
+                <string>
+                    <value><![CDATA[Nucleus R2017b]]></value>
+                </string>
+            </key>
+            <key name="ProjectComponent" visible="true" anytype="true">
+            </key>
+            <key name="SchedulerComponent" visible="true">
+                <string>
+                    <value><![CDATA[GenericProfile1SchedulerComponent]]></value>
+                </string>
+            </key>
+        </settings>
+    </settings>
+    <settings name="schedulercomponents">
+        <settings name="GenericR2016b" visible="true">
+            <settings name="GenericProfile1SchedulerComponent" visible="true">
+                <key name="Alias" visible="true">
+                    <string>
+                        <value><![CDATA[GenericProfile1SchedulerComponent]]></value>
+                    </string>
+                </key>
+                <key name="CancelJobFcn" visible="true" anytype="true">
+                </key>
+                <key name="CancelTaskFcn" visible="true" anytype="true">
+                </key>
+                <key name="ClusterMatlabRoot" visible="true" anytype="true">
+                </key>
+                <key name="CommunicatingSubmitFcn" visible="true">
+                    <string>
+                        <value><![CDATA[AAFJTQAAAAAOAAAAIAMAAAYAAAAIAAAAEAAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAOAAAA8AIAAAYAAAAIAAAAAgAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAFAAQAEAAAAAEAAABAAAAAbWF0bGFicm9vdAAAAAAAAHNlcGFyYXRvcgAAAAAAAABzZW50aW5lbAAAAAAAAAAAZnVuY3Rpb25faGFuZGxlAA4AAABIAAAABgAAAAgAAAAEAAAAAAAAAAUAAAAIAAAAAQAAABgAAAABAAAAAAAAABAAAAAYAAAAL2FwcHMvTUFUTEFCL1IyMDEzYl9NRENTDgAAADAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAAQAAAAEAAAAAAAAAEAABAC8AAAAOAAAAMAAAAAYAAAAIAAAABAAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAQAAEAQAAAAA4AAACwAQAABgAAAAgAAAACAAAAAAAAAAUAAAAIAAAAAQAAAAEAAAABAAAAAAAAAAUABAAJAAAAAQAAACQAAABmdW5jdGlvbgB0eXBlAAAAAABmaWxlAAAAAABjbGFzcwAAAAAAAAAADgAAAEgAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAFgAAAAEAAAAAAAAAEAAAABYAAABjb21tdW5pY2F0aW5nU3VibWl0RmNuAAAOAAAAQAAAAAYAAAAIAAAABAAAAAAAAAAFAAAACAAAAAEAAAALAAAAAQAAAAAAAAAQAAAACwAAAGNsYXNzc2ltcGxlAAAAAAAOAAAAYAAAAAYAAAAIAAAABAAAAAAAAAAFAAAACAAAAAEAAAAvAAAAAQAAAAAAAAAQAAAALwAAAC9ob21lMi9oYXRhd2FuZy9tYXRsYWIvY29tbXVuaWNhdGluZ1N1Ym1pdEZjbi5tAA4AAABIAAAABgAAAAgAAAAEAAAAAAAAAAUAAAAIAAAAAQAAABQAAAABAAAAAAAAABAAAAAUAAAAZGlzdGNvbXAudHlwZWNoZWNrZXIAAAAA]]></value>
+                    </string>
+                </key>
+                <key name="DeleteJobFcn" visible="true">
+                    <string>
+                        <value><![CDATA[AAFJTQAAAAAOAAAAEAMAAAYAAAAIAAAAEAAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAOAAAA4AIAAAYAAAAIAAAAAgAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAFAAQAEAAAAAEAAABAAAAAbWF0bGFicm9vdAAAAAAAAHNlcGFyYXRvcgAAAAAAAABzZW50aW5lbAAAAAAAAAAAZnVuY3Rpb25faGFuZGxlAA4AAABIAAAABgAAAAgAAAAEAAAAAAAAAAUAAAAIAAAAAQAAABgAAAABAAAAAAAAABAAAAAYAAAAL2FwcHMvTUFUTEFCL1IyMDEzYl9NRENTDgAAADAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAAQAAAAEAAAAAAAAAEAABAC8AAAAOAAAAMAAAAAYAAAAIAAAABAAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAQAAEAQAAAAA4AAACgAQAABgAAAAgAAAACAAAAAAAAAAUAAAAIAAAAAQAAAAEAAAABAAAAAAAAAAUABAAJAAAAAQAAACQAAABmdW5jdGlvbgB0eXBlAAAAAABmaWxlAAAAAABjbGFzcwAAAAAAAAAADgAAAEAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAADAAAAAEAAAAAAAAAEAAAAAwAAABkZWxldGVKb2JGY24AAAAADgAAAEAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAACwAAAAEAAAAAAAAAEAAAAAsAAABjbGFzc3NpbXBsZQAAAAAADgAAAFgAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAJQAAAAEAAAAAAAAAEAAAACUAAAAvaG9tZTIvaGF0YXdhbmcvbWF0bGFiL2RlbGV0ZUpvYkZjbi5tAAAADgAAAEgAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAFAAAAAEAAAAAAAAAEAAAABQAAABkaXN0Y29tcC50eXBlY2hlY2tlcgAAAAA=]]></value>
+                    </string>
+                </key>
+                <key name="DeleteTaskFcn" visible="true" anytype="true">
+                </key>
+                <key name="GetJobStateFcn" visible="true">
+                    <string>
+                        <value><![CDATA[AAFJTQAAAAAOAAAAEAMAAAYAAAAIAAAAEAAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAOAAAA4AIAAAYAAAAIAAAAAgAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAFAAQAEAAAAAEAAABAAAAAbWF0bGFicm9vdAAAAAAAAHNlcGFyYXRvcgAAAAAAAABzZW50aW5lbAAAAAAAAAAAZnVuY3Rpb25faGFuZGxlAA4AAABIAAAABgAAAAgAAAAEAAAAAAAAAAUAAAAIAAAAAQAAABgAAAABAAAAAAAAABAAAAAYAAAAL2FwcHMvTUFUTEFCL1IyMDEzYl9NRENTDgAAADAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAAQAAAAEAAAAAAAAAEAABAC8AAAAOAAAAMAAAAAYAAAAIAAAABAAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAQAAEAQAAAAA4AAACgAQAABgAAAAgAAAACAAAAAAAAAAUAAAAIAAAAAQAAAAEAAAABAAAAAAAAAAUABAAJAAAAAQAAACQAAABmdW5jdGlvbgB0eXBlAAAAAABmaWxlAAAAAABjbGFzcwAAAAAAAAAADgAAAEAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAADgAAAAEAAAAAAAAAEAAAAA4AAABnZXRKb2JTdGF0ZUZjbgAADgAAAEAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAACwAAAAEAAAAAAAAAEAAAAAsAAABjbGFzc3NpbXBsZQAAAAAADgAAAFgAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAJwAAAAEAAAAAAAAAEAAAACcAAAAvaG9tZTIvaGF0YXdhbmcvbWF0bGFiL2dldEpvYlN0YXRlRmNuLm0ADgAAAEgAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAFAAAAAEAAAAAAAAAEAAAABQAAABkaXN0Y29tcC50eXBlY2hlY2tlcgAAAAA=]]></value>
+                    </string>
+                </key>
+                <key name="HasSharedFilesystem" visible="true">
+                    <bool>
+                        <value>1</value>
+                    </bool>
+                </key>
+                <key name="IndependentSubmitFcn" visible="true">
+                    <string>
+                        <value><![CDATA[AAFJTQAAAAAOAAAAIAMAAAYAAAAIAAAAEAAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAOAAAA8AIAAAYAAAAIAAAAAgAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAFAAQAEAAAAAEAAABAAAAAbWF0bGFicm9vdAAAAAAAAHNlcGFyYXRvcgAAAAAAAABzZW50aW5lbAAAAAAAAAAAZnVuY3Rpb25faGFuZGxlAA4AAABIAAAABgAAAAgAAAAEAAAAAAAAAAUAAAAIAAAAAQAAABgAAAABAAAAAAAAABAAAAAYAAAAL2FwcHMvTUFUTEFCL1IyMDEzYl9NRENTDgAAADAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAAQAAAAEAAAAAAAAAEAABAC8AAAAOAAAAMAAAAAYAAAAIAAAABAAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAQAAEAQAAAAA4AAACwAQAABgAAAAgAAAACAAAAAAAAAAUAAAAIAAAAAQAAAAEAAAABAAAAAAAAAAUABAAJAAAAAQAAACQAAABmdW5jdGlvbgB0eXBlAAAAAABmaWxlAAAAAABjbGFzcwAAAAAAAAAADgAAAEgAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAFAAAAAEAAAAAAAAAEAAAABQAAABpbmRlcGVuZGVudFN1Ym1pdEZjbgAAAAAOAAAAQAAAAAYAAAAIAAAABAAAAAAAAAAFAAAACAAAAAEAAAALAAAAAQAAAAAAAAAQAAAACwAAAGNsYXNzc2ltcGxlAAAAAAAOAAAAYAAAAAYAAAAIAAAABAAAAAAAAAAFAAAACAAAAAEAAAAtAAAAAQAAAAAAAAAQAAAALQAAAC9ob21lMi9oYXRhd2FuZy9tYXRsYWIvaW5kZXBlbmRlbnRTdWJtaXRGY24ubQAAAA4AAABIAAAABgAAAAgAAAAEAAAAAAAAAAUAAAAIAAAAAQAAABQAAAABAAAAAAAAABAAAAAUAAAAZGlzdGNvbXAudHlwZWNoZWNrZXIAAAAA]]></value>
+                    </string>
+                </key>
+                <key name="JobStorageLocation" visible="true">
+                    <string minArraySize="0" maxArraySize="0" undef="true">
+                    </string>
+                </key>
+                <key name="LicenseNumber" visible="true" anytype="true">
+                </key>
+                <key name="NumThreads" visible="true" anytype="true">
+                </key>
+                <key name="NumWorkers" visible="true">
+                    <double>
+                        <value>128.0</value>
+                    </double>
+                </key>
+                <key name="OperatingSystem" visible="true">
+                    <string>
+                        <value><![CDATA[unix]]></value>
+                    </string>
+                </key>
+                <key name="RequiresMathWorksHostedLicensing" visible="true" anytype="true">
+                </key>
+            </settings>
+        </settings>
+    </settings>
+    <settings name="version" visible="true">
+        <key name="PCTVersionNumber" visible="true">
+            <double>
+                <value>26.0</value>
+            </double>
+        </key>
+    </settings>
+</settings>
