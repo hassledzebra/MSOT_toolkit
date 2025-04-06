@@ -1,5 +1,9 @@
 # ithera_MSOT_matlab_toolkit
 
+# Requirement
+Tested on Matlab 2021a
+Signal processing toolbox, imaging processing toolbox, parallel processing toolbox required
+
 # Citation:
 
 Han, Z., MacCuaig, W. M., Gurcan, M. N., Claros-Sorto, J., Garwe, T., Henson, C., ... & McNally, L. R. (2023). Dynamic 2-deoxy-D-glucose-enhanced multispectral optoacoustic tomography for assessing metabolism and vascular hemodynamics of breast cancer. Photoacoustics, 32, 100531.
